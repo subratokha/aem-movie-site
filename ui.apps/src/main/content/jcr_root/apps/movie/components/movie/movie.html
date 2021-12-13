@@ -1,0 +1,21 @@
+
+<sly data-sly-use.movie="com.aem.movie.core.models.MovieModel">
+<section class="movie-search">
+    <form id="form" data-results="${movie.results}">
+        <input type="text" placeholder="Search movies and trailers" id="search" class="search">
+    </form>
+</section>
+
+<div id="overlay" class="overlay">
+
+    <a href="javascript:void(0)" class="closebtn" id="closebtn">&times;</a>
+
+    <div class="overlay-content" id="overlay-content"></div>
+
+</div>
+<div id="main"></div>
+
+
+
+
+

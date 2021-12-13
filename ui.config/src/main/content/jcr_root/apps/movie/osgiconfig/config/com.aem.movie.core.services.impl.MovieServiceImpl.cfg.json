@@ -1,0 +1,7 @@
+{
+  "getTMDBImageUrl": "https://image.tmdb.org/t/p/w500",
+  "getTMDBApiKey": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjN2JmYWI1NzJjNDk0ZGJhODQ0ZWE4ODEwYjI1OTdkYiIsInN1YiI6IjYxYTg0YTUxMTVjNjM2MDA0MzgxYjllYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jdQoXmX6LQ-uUt2VoNOvbLe7QxgTWaMSKApvq22xOM8",
+  "getTMDBMovieUrl":"https://api.themoviedb.org/3",
+  "getYouTubeApiKey": "AIzaSyDTZyO0G6B1djDnQwVVpxpvGFj_XXrm8ns",
+  "getYoutubeUrl": "https://www.googleapis.com/youtube/v3"
+}
